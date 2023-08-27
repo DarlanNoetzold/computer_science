@@ -4,15 +4,15 @@
 This repository will be populated and enriched with important information for a good developer, the subjects addressed will be related to what I am currently studying.
 Initially you will follow the following list:
 
-* Performance
-* Security
-* Project Patterns
-* Web API
-* Cache
-* Message Broker
-* Tests
-* Infrastructure
-* Database
-* Scalability
-* Observability
-* Cloud Computing
+* [Performance](https://github.com/DarlanNoetzold/computer_science/tree/main/Performance)
+* [Security](https://github.com/DarlanNoetzold/computer_science/tree/main/Security)
+* [Project Patterns](https://github.com/DarlanNoetzold/computer_science/tree/main/Project%20Patterns)
+* [Web API](https://github.com/DarlanNoetzold/computer_science/tree/main/Web%20API)
+* [Cache](https://github.com/DarlanNoetzold/computer_science/blob/main/Cache/README.md)
+* [Message Broker](https://github.com/DarlanNoetzold/computer_science/tree/main/Message%20Broker)
+* [Tests](https://github.com/DarlanNoetzold/computer_science/tree/main/Tests)
+* [Infrastructure](https://github.com/DarlanNoetzold/computer_science/tree/main/Infrastructure)
+* [Database](https://github.com/DarlanNoetzold/computer_science/blob/main/Database/README.md)
+* [Scalability](https://github.com/DarlanNoetzold/computer_science/tree/main/Scalability)
+* [Observability](https://github.com/DarlanNoetzold/computer_science/tree/main/Observability)
+* [Cloud Computing](https://github.com/DarlanNoetzold/computer_science/blob/main/Cloud%20Computing/README.md)https://github.com/DarlanNoetzold/computer_science/blob/main/Cloud%20Computing/README.md
