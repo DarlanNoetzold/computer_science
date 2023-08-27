@@ -7,3 +7,12 @@ Initially you will follow the following list:
 * Performance
 * Security
 * Project Patterns
+* Web
+* Cache
+* Message Broker
+* Tests
+* Infrastructure
+* Database
+* Scalability
+* Observability
+* Cloud Computing
