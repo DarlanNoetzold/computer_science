@@ -7,7 +7,7 @@ Initially you will follow the following list:
 * Performance
 * Security
 * Project Patterns
-* Web
+* Web API
 * Cache
 * Message Broker
 * Tests
