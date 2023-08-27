@@ -15,4 +15,4 @@ Initially you will follow the following list:
 * [Database](https://github.com/DarlanNoetzold/computer_science/blob/main/Database/README.md)
 * [Scalability](https://github.com/DarlanNoetzold/computer_science/tree/main/Scalability)
 * [Observability](https://github.com/DarlanNoetzold/computer_science/tree/main/Observability)
-* [Cloud Computing](https://github.com/DarlanNoetzold/computer_science/blob/main/Cloud%20Computing/README.md)https://github.com/DarlanNoetzold/computer_science/blob/main/Cloud%20Computing/README.md
+* [Cloud Computing](https://github.com/DarlanNoetzold/computer_science/blob/main/Cloud%20Computing/README.md)
