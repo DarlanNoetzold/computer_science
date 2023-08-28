@@ -31,3 +31,9 @@ Welcome to this Markdown guide on **Performance in IT**. In today's fast-paced t
 5. **CDNs:** Distribute content to edge servers.
 6. **Scalability:** Design systems to handle growth.
 7. **Compression:** Reduce data size for quicker transmission.
+
+## Frameworks Used
+
+1. Spring
+2. Quarkus
+3. Node.js
