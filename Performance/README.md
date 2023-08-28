@@ -1,5 +1,4 @@
-# Performance in IT: A Markdown Guide
-
+# Performance in IT
 ## Introduction
 
 Welcome to this Markdown guide on **Performance in IT**. In today's fast-paced tech landscape, achieving optimal performance is paramount. This guide will delve into key performance aspects using Markdown tags.
