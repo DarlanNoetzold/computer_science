@@ -2,18 +2,6 @@
 
 Ensuring robust security in web application development is paramount to protect sensitive data, prevent unauthorized access, and maintain the integrity of systems. This guide outlines key security considerations when developing web applications, particularly focusing on APIs built using frameworks like Spring, Node.js, and Quarkus.
 
-## Table of Contents
-
-- [Authentication and Authorization](#authentication-and-authorization)
-- [Input Validation](#input-validation)
-- [SQL Injection Prevention](#sql-injection-prevention)
-- [Cross-Site Scripting (XSS) Mitigation](#cross-site-scripting-xss-mitigation)
-- [Cross-Site Request Forgery (CSRF) Protection](#cross-site-request-forgery-csrf-protection)
-- [Secure Communication](#secure-communication)
-- [Error Handling](#error-handling)
-- [Session Management](#session-management)
-- [Sensitive Data Protection](#sensitive-data-protection)
-
 ### Authentication and Authorization
 
 **Authentication** ensures that users are who they claim to be. **Authorization** governs what resources a user can access. Use a strong authentication mechanism such as OAuth 2.0 or JSON Web Tokens (JWT). Employ proper user role-based authorization using middleware, decorators, or annotations provided by the framework.
