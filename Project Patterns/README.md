@@ -40,7 +40,7 @@ Robust **logging** practices and **monitoring** mechanisms are essential for tra
 
 ## Frameworks Exemplas
 
-1. Spring
-2. Quarkus
-3. Node.js
+1. [Spring](https://github.com/DarlanNoetzold/computer_science/tree/main/Project%20Patterns/Spring)
+2. [Quarkus](https://github.com/DarlanNoetzold/computer_science/tree/main/Project%20Patterns/Quarkus)
+3. [Node.js](https://github.com/DarlanNoetzold/computer_science/tree/main/Project%20Patterns/Node.js)
 
