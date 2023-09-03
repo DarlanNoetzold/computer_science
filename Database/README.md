@@ -37,6 +37,6 @@ Os bancos de dados realizam várias funções críticas para a gestão de dados:
 Em um mundo cada vez mais digital, os bancos de dados desempenham um papel central na coleta, armazenamento e análise de dados. Eles são usados em uma variedade de setores, desde finanças até saúde, pesquisa científica, comércio eletrônico e muito mais. Bancos de dados também são a base para tecnologias emergentes, como análise de big data, aprendizado de máquina e inteligência artificial.
 
 ## Frameworks Examples
-1. Spring
-2. Quarkus
-3. Node.js
+1. [Spring](https://github.com/DarlanNoetzold/computer_science/tree/main/Database/Spring)
+2. [Quarkus](https://github.com/DarlanNoetzold/computer_science/tree/main/Database/Quarkus)
+3. [Node.js](https://github.com/DarlanNoetzold/computer_science/tree/main/Database/Node.js)
