@@ -35,6 +35,6 @@ Existem várias estratégias para alcançar a escalabilidade:
 6. **Uso de Serviços em Nuvem**: Plataformas em nuvem, como AWS, Azure e Google Cloud, oferecem recursos elásticos que podem ser dimensionados conforme necessário.
 
 ## Frameworks Examples
-1. Spring
-2. Quarkus
-3. Node.js
+1. [Spring](https://github.com/DarlanNoetzold/computer_science/tree/main/Scalability/Spring)
+2. [Quarkus](https://github.com/DarlanNoetzold/computer_science/tree/main/Scalability/Quarkus)
+3. [Node.js](https://github.com/DarlanNoetzold/computer_science/tree/main/Scalability/Node.js)
