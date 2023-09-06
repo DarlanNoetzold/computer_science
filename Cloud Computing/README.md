@@ -43,6 +43,6 @@ Cloud computing has transformed various industries, including:
 
 ## Framework Examples
 
-1. [Spring](https://github.com/DarlanNoetzold/computer_science/tree/main/Observability/Spring)
-2. [Quarkus](https://github.com/DarlanNoetzold/computer_science/tree/main/Observability/Quarkus)
-3. [Node.js](https://github.com/DarlanNoetzold/computer_science/tree/main/Observability/Node.js)
+1. [Spring](https://github.com/DarlanNoetzold/computer_science/tree/main/Cloud%20Computing/Spring)
+2. [Quarkus](https://github.com/DarlanNoetzold/computer_science/tree/main/Cloud%20Computing/Quarkus)
+3. [Node.js](https://github.com/DarlanNoetzold/computer_science/tree/main/Cloud%20Computing/Node.js)
