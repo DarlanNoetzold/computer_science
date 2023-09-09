@@ -29,3 +29,7 @@ Acceptance tests are formal tests performed to verify that a system
 
 ### performance test
 Performance tests evaluate a system's performance under a specific workload. These tests help measure an application's reliability, speed, scalability, and responsiveness. For example, performance testing can look at response times when running a large number of requests, or see how the system behaves with significant amounts of data. It can determine if an application meets performance requirements, find bottlenecks, measure stability during traffic spikes, and much more.
+
+---
+
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
