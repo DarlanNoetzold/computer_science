@@ -44,3 +44,6 @@ Robust **logging** practices and **monitoring** mechanisms are essential for tra
 2. [Quarkus](https://github.com/DarlanNoetzold/computer_science/tree/main/Project%20Patterns/Quarkus)
 3. [Node.js](https://github.com/DarlanNoetzold/computer_science/tree/main/Project%20Patterns/Node.js)
 
+---
+
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
