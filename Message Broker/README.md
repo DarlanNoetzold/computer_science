@@ -58,3 +58,7 @@ To start using a Message Broker, follow these steps:
 1. [Spring](https://github.com/DarlanNoetzold/computer_science/tree/main/Message%20Broker/Spring)
 2. [Quarkus](https://github.com/DarlanNoetzold/computer_science/tree/main/Message%20Broker/Quarkus)
 3. [Node.js](https://github.com/DarlanNoetzold/computer_science/tree/main/Message%20Broker/Node.js)
+
+---
+
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
