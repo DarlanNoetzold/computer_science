@@ -47,3 +47,8 @@ To achieve effective observability, you can adopt the following strategies:
 1. [Spring](https://github.com/DarlanNoetzold/computer_science/tree/main/Observability/Spring)
 2. [Quarkus](https://github.com/DarlanNoetzold/computer_science/tree/main/Observability/Quarkus)
 3. [Node.js](https://github.com/DarlanNoetzold/computer_science/tree/main/Observability/Node.js)
+
+
+---
+
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
