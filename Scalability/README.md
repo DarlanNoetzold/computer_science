@@ -38,3 +38,7 @@ There are several strategies to achieve scalability:
 1. [Spring](https://github.com/DarlanNoetzold/computer_science/tree/main/Scalability/Spring)
 2. [Quarkus](https://github.com/DarlanNoetzold/computer_science/tree/main/Scalability/Quarkus)
 3. [Node.js](https://github.com/DarlanNoetzold/computer_science/tree/main/Scalability/Node.js)
+
+---
+
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
