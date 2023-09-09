@@ -40,3 +40,7 @@ In an increasingly digital world, databases play a central role in data collecti
 1. [Spring](https://github.com/DarlanNoetzold/computer_science/tree/main/Database/Spring)
 2. [Quarkus](https://github.com/DarlanNoetzold/computer_science/tree/main/Database/Quarkus)
 3. [Node.js](https://github.com/DarlanNoetzold/computer_science/tree/main/Database/Node.js)
+
+---
+
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
