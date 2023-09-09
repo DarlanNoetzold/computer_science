@@ -46,3 +46,7 @@ Cloud computing has transformed various industries, including:
 1. [Spring](https://github.com/DarlanNoetzold/computer_science/tree/main/Cloud%20Computing/Spring)
 2. [Quarkus](https://github.com/DarlanNoetzold/computer_science/tree/main/Cloud%20Computing/Quarkus)
 3. [Node.js](https://github.com/DarlanNoetzold/computer_science/tree/main/Cloud%20Computing/Node.js)
+
+---
+
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
