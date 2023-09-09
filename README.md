@@ -16,3 +16,8 @@ Initially you will follow the following list:
 * [Scalability](https://github.com/DarlanNoetzold/computer_science/tree/main/Scalability)
 * [Observability](https://github.com/DarlanNoetzold/computer_science/tree/main/Observability)
 * [Cloud Computing](https://github.com/DarlanNoetzold/computer_science/blob/main/Cloud%20Computing)
+
+
+---
+
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
