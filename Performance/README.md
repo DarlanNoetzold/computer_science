@@ -37,3 +37,7 @@ Welcome to this Markdown guide on **Performance in IT**. In today's fast-paced t
 1. [Spring](https://github.com/DarlanNoetzold/computer_science/tree/main/Performance/Spring)
 2. [Quarkus](https://github.com/DarlanNoetzold/computer_science/tree/main/Performance/Quarkus)
 3. [Node.js](https://github.com/DarlanNoetzold/computer_science/tree/main/Performance/Node.js)
+
+---
+
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
