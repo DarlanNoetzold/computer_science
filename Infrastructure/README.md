@@ -42,3 +42,6 @@ IaC plays a crucial role in enabling efficient CI/CD pipelines within a DevOps f
 2. [Quarkus](https://github.com/DarlanNoetzold/computer_science/tree/main/Infrastructure/Quarkus)
 3. [Node.js](https://github.com/DarlanNoetzold/computer_science/tree/main/Infrastructure/Node.js)
 
+---
+
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
