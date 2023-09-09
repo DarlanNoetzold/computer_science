@@ -115,4 +115,8 @@ Optionally, a body with data from the requested resource.
 ## HTTP based APIs
 The most widely used API built on top of HTTP is XMLHttpRequest, which can be used to exchange data between a user agent (en-US) and a server.
 
+---
+
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
+
 Another API, server-sent events, is a one-way service that allows a server to send events to the client, using HTTP as a transport mechanism. Using the EventSource interface, the client opens a connection and establishes event handlers. The client browser automatically converts incoming messages over the HTTP stream into appropriate Event objects, handing them to event handlers that have been registered for the type event types if known, or to the onmessage (en-US) event handler if no type-specific event handlers have been defined.
