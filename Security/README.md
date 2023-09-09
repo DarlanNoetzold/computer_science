@@ -43,3 +43,8 @@ Encrypt sensitive data, such as passwords and personal information, using strong
 1. [Spring](https://github.com/DarlanNoetzold/computer_science/tree/main/Security/Spring)
 2. [Quarkus](https://github.com/DarlanNoetzold/computer_science/tree/main/Security/Quarkus)
 3. [Node.js](https://github.com/DarlanNoetzold/computer_science/tree/main/Security/Node.js)
+
+
+---
+
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
