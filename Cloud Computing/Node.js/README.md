@@ -2,6 +2,7 @@
 
 Cloud computing has revolutionized the way applications are developed and deployed, offering scalability, reliability, and cost-effectiveness. Node.js, with its non-blocking I/O and lightweight architecture, is an excellent choice for building cloud-native applications. In this article, we'll explore how to build cloud-native applications using Node.js.
 
+
 ## Step 1: Choose Your Cloud Provider
 Start by selecting a cloud provider that aligns with your project's requirements. Major cloud providers like Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), and IBM Cloud offer a wide range of cloud services, including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
 
