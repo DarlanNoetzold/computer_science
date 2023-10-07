@@ -41,6 +41,7 @@ Cloud computing has transformed various industries, including:
 - **Finance**: Advanced analytics, fraud detection, and secure online banking services.
 - **Entertainment**: Streaming services, online gaming, and content delivery.
 
+
 ## Framework Examples
 
 1. [Spring](https://github.com/DarlanNoetzold/computer_science/tree/main/Cloud%20Computing/Spring)
