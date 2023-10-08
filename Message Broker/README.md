@@ -18,6 +18,7 @@ Message Brokers offer several advantages, including:
 
 - **Message Transformation**: Allows messages to be transformed or translated into different formats, aiding compatibility between heterogeneous systems.
 
+
 ## Common Use Cases
 
 Message Brokers find application in various scenarios, such as:
