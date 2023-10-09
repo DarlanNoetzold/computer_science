@@ -34,10 +34,6 @@ Implement proper error handling to avoid exposing sensitive information to attac
 
 Implement secure **session management** using mechanisms like **HttpOnly** and **Secure** flags for cookies. Store minimal session data on the client side and sensitive data on the server side.
 
-### Sensitive Data Protection
-
-Encrypt sensitive data, such as passwords and personal information, using strong encryption algorithms. Never store plaintext passwords; use salted and hashed passwords instead. Utilize secure key management practices.
-
 ## Frameworks Example
 
 1. [Spring](https://github.com/DarlanNoetzold/computer_science/tree/main/Security/Spring)
